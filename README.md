@@ -13,7 +13,7 @@ Custom web server with thread per request model using pure Java. I didn't suppos
 ## Getting Started ⚡
 **1. Clone the repository**
 ```bash
-git clone https://github.com/ZayarLinnNaung-Coder/ZCMS.git
+git clone https://github.com/ZayarLinnNaung-Coder/ZWebServer.git
 ```
 **2. User Initializing**
 ```bash
